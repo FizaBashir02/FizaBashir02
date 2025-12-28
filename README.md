@@ -90,7 +90,7 @@ _(Links are provided inside individual project repositories)_
   <a href="https://github.com/FizaBashir02">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://youtube.com">
+  <a href="https://youtube.com/@fizakhan-w1w3n?si=-WSXNPYxikOFQ-oQ">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:your-email@gmail.com">
